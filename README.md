@@ -23,9 +23,8 @@ AI Tools Used
 - GitHub Copilot: Assisted in improving CSS styles, and optimizing React components.
 - ChatGPT: Helped in debugging issues like login, and designing the database schema.
 
-Hosted Links
-- Web App: [Add your hosted web app link here]
-- Demo Video: [Add your demo video link here]
+Links
+- Demo Video: https://drive.google.com/file/d/1cFMD57i5tsIPGULyIEojL63qhdlfZ0pq/view?usp=sharing
 
 Setup Instructions
 
